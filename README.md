@@ -7,3 +7,5 @@ Includes commented class files for the following programs:
 Travelling Salesman Problem GA, 
 Path finding around obstacles GA, 
 Route finding on maps GA.
+
+To run the program after downloading, execute the main method of the RunGA class (either at command line, or using your preferred software). Each program is set up for demonstration, and parameters can be changed easily at the top of the RunGA file alone.
